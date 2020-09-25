@@ -5,3 +5,4 @@ Blurring and smoothening an image using Box Filter, Gaussian and Median Filter.
 * Gaussian with σ=3, and
 * Median Filter using a 5×5 window
 
+![alt text](https://github.com/bimbraw/Blurring/blob/master/katha.png)
